@@ -1,47 +1,90 @@
-# Boakye Yiadom Caleb's Portfolio
+<h1 align="center">Hi, I'm Caleb 👋</h1>
 
-Welcome to my portfolio! I am Boakye Yiadom Caleb, a Level 300 student at the University of Energy and Natural Resources, pursuing a BSc in Information Technology. I specialize in web development, graphic design, and penetration testing.
+<p align="center">
+  <b>Full-Stack Developer · Mobile Engineer · Cybersecurity Enthusiast · ML Explorer</b><br/>
+  <sub>Final Year BSc Information Technology Student — University of Energy and Natural Resources, Ghana</sub>
+</p>
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Contact](#contact)
+<p align="center">
+  <a href="mailto:boakyeyiadomcaleb123@gmail.com">✉️ Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb">💼 LinkedIn</a>
+</p>
+
+---
 
 ## About Me
-I am passionate about technology and dedicated to creating innovative solutions. My expertise includes frontend web development, graphic design, and cybersecurity. I am always eager to learn and take on new challenges.
+
+I'm a final year IT student at UENR, Ghana, with a passion for building elegant solutions across web, mobile, and security. I work with clients as a freelancer from crafting modern web apps to designing mobile experiences and exploring AI-driven tools.
+
+- 🎓 Final year BSc Information Technology at UENR
+- 💼 Available for freelance web, mobile, design & security projects
+- 🤖 Currently exploring AI/ML applications and intelligent systems
+- 🛡️ Passionate about cybersecurity and ethical hacking
+- 🌍 Based in Ghana, working with clients globally
+
+---
 
 ## Skills
-- Web Development: HTML, CSS, WordPress
-- Graphic Design: Adobe Photoshop, Illustrator
-- Programming Languages: C++, Java
-- Tools: Microsoft Suite (Excel, Word, PowerPoint), Penetration Testing Tools
 
-## Projects
+**Frontend**
+`HTML` `CSS` `JavaScript` `React.js` `WordPress`
 
-### 1. Personal Portfolio Website
-- Description: A responsive personal portfolio website showcasing my skills and projects.
-- Technologies Used: HTML, CSS, JavaScript, WordPress
-- Role: Designed and developed the website.
-  
+**Mobile Development**
+`Flutter` `Dart` `React Native`
 
-### 2. E-commerce Website
-- Description: Developed an e-commerce platform for a local business.
-- Technologies Used: HTML, CSS, WordPress, WooCommerce
-- Role: Frontend developer and designer.
-  
+**Backend & Data**
+`Python` `SQL` `Docker` `Linux Servers`
 
-### 3. Network Penetration Testing
-- Description: Conducted penetration testing for a small business to identify vulnerabilities.
-- Technologies Used: Kali Linux, Metasploit
-- Role: Lead tester and report writer.
-  
+**AI & Machine Learning**
+`TensorFlow` `Python (Data Science)` `Scikit-learn`
 
-## Contact
-Feel free to reach out to me for collaboration or inquiries!
+**Graphic Design**
+`Adobe Photoshop` `Adobe Illustrator`
 
-- Website: https://cal7598.github.io/caltekk-portfolio/
-- Email: boakyeyiadomcaleb123@gmail.com
-- LinkedIn: https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**Cybersecurity**
+`Kali Linux` `Metasploit` `Penetration Testing`
 
-Thank you for visiting my portfolio!
+---
+
+## Featured Projects
+
+### 🌐 Personal Portfolio Website
+A responsive personal portfolio showcasing my skills and work.
+- **Tech:** HTML, CSS, JavaScript, WordPress
+- **Role:** Designer & Developer
+- 🔗 [View Live](https://cal7598.github.io/caltekk-portfolio/)
+
+---
+
+### 🛒 E-commerce Platform
+A full e-commerce website built for a local business.
+- **Tech:** HTML, CSS, WordPress, WooCommerce
+- **Role:** Frontend Developer & Designer
+
+---
+
+### 🛡️ Network Penetration Testing
+Security audit for a small business — identified vulnerabilities and delivered a detailed report.
+- **Tech:** Kali Linux, Metasploit
+- **Role:** Lead Tester & Report Writer
+
+---
+
+<p align="center">
+  <b>👉 See all my projects on <a href="https://github.com/cal7598">GitHub</a></b>
+</p>
+
+---
+
+## Work With Me
+
+I'm open to freelance work, whether it's a website, mobile app, graphic design, or a security audit. Let's build something great together.
+
+| Platform | Link |
+|----------|------|
+| ✉️ Email | [boakyeyiadomcaleb123@gmail.com](mailto:boakyeyiadomcaleb123@gmail.com) |
+| 💼 LinkedIn | [Caleb Boakye Yiadom](https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb) |
+
+---
+
+<p align="center">Thanks for stopping by! Feel free to reach out  I'm always up for a good project 🚀</p>
