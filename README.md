@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://cal7598.github.io/caltekk-portfolio/"><img src="https://img.shields.io/badge/Portfolio-cal7598.github.io-F2B33D?style=flat-square&labelColor=0B1220" alt="Portfolio"></a>
   <a href="mailto:boakyeyiadomcaleb123@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-F2B33D?style=flat-square&labelColor=0B1220" alt="Email"></a>
   <a href="https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-F2B33D?style=flat-square&labelColor=0B1220" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20work-3FB950?style=flat-square&labelColor=0B1220" alt="Open to freelance work">
