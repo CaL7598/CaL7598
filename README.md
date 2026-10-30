@@ -25,7 +25,7 @@ I work across the stack — React and TypeScript on the front end, Node.js, Pyth
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/CaL7598/UENR-TECH-FAIR-2026-Best-Programming-Challenge">ShiftPulse</a></h3>
-      <p>Round-the-clock workforce scheduling engine built for the UENR Tech Fair 2026 Best Programmer Challenge grand finale. Produces fair, rule-compliant, low-cost 7-day rosters and re-optimises when a worker calls in sick.</p>
+      <p><b>2nd place, UENR Tech Fair 2026 Best Programmer Challenge.</b> Round-the-clock workforce scheduling engine built in the five-hour grand finale. Produces fair, rule-compliant, low-cost 7-day rosters and re-optimises when a worker calls in sick.</p>
       <code>Python</code> <code>OR-Tools CP-SAT</code> <code>Optimisation</code>
     </td>
   </tr>
