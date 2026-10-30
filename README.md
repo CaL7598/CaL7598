@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:boakyeyiadomcaleb123@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-F2B33D?style=flat-square&labelColor=0B1220" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-F2B33D?style=flat-square&labelColor=0B1220" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/calebboakyeyiadom"><img src="https://img.shields.io/badge/LinkedIn-Connect-F2B33D?style=flat-square&labelColor=0B1220" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20work-3FB950?style=flat-square&labelColor=0B1220" alt="Open to freelance work">
 </p>
 
@@ -65,4 +65,4 @@ I work across the stack — React and TypeScript on the front end, Node.js, Pyth
 
 ## Get in touch
 
-Have a project in mind? Email me at [boakyeyiadomcaleb123@gmail.com](mailto:boakyeyiadomcaleb123@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/caleb-boakye-yiadom-3468972bb).
+Have a project in mind? Email me at [boakyeyiadomcaleb123@gmail.com](mailto:boakyeyiadomcaleb123@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/calebboakyeyiadom).
